@@ -1,0 +1,14 @@
+.container {
+  background-color: #baeadd;
+  height: 100vh;
+}
+
+.show-data {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.App {
+  margin: 0px;
+}
